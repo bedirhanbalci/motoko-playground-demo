@@ -1,5 +1,5 @@
 # Motoko Playground Demo
-Internet Computer Project Building Workshop
+## Internet Computer Project Building Workshop
 
 Canister ID: ud6i4-iaaaa-aaaab-qadiq-cai
 
